@@ -1,0 +1,8 @@
+<resources>
+    <string name="price_format">%d원 -> %d원</string>
+    <string name="book_isbn">ISBN</string>
+    <string name="book_status">상태</string>
+    <string name="book_price">가격</string>
+    <string name="book_author">저자</string>
+    <string name="book_publish">출판</string>
+</resources>
